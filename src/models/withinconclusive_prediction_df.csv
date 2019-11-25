@@ -1,0 +1,4 @@
+,Unnamed: 1,bilateral,left,right,highest_num,highest_class,true_class,hit
+bilateral,dummy1,0.6,0.2,0.2,0.6,bilateral,bilateral,True
+left,dummy2,0.2,0.2,0.6,0.6,right,left,False
+right,dummy3,0.2,0.1,0.7,0.7,right,right,True
